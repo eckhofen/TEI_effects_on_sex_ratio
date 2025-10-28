@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+02_plots/
+03_tables/
+00_data/00_processed/
+00_data/01_results/
