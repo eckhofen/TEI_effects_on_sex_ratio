@@ -1,30 +1,40 @@
-# TEI_effects_on_sex_ratio
-Transgenerational heat exposure triggers unexpected compensatory sex ratio responses in a temperature-sensitive fish under climate warming
+# Transgenerational Effects of Temperature on Sea Bass Sex Ratios
 
-# Content
+This repository provides the full analysis pipeline for the study **"Transgenerational heat exposure triggers unexpected compensatory sex ratio responses in a temperature-sensitive fish under climate warming"**. It includes all data and R code necessary to reproduce the findings presented in the manuscript.
 
-├── 00_data /n
-│   ├── 00_processed /n
-│   ├── 01_results /n
-│   ├── color_palettes.RData /n
-│   ├── data_cc.csv /n
-│   ├── data_cc.RData /n
-│   ├── data_histology_females.csv /n
-│   ├── data_histology_males.csv /n
-│   ├── data_histology.RData /n
-│   ├── data_main.csv /n
-│   └── data_main.RData /n
-├── 01_code /n
-│   ├── 00_tank_effect.R /n
-│   ├── 01a_sex_ratio_stats.R /n
-│   ├── 01b_sex_ratio_visualization.R /n
-│   ├── 02_growth_stats.R /n
-│   ├── 03a_chemistry_stats.R /n
-│   ├── 03b_chemistry_visualization.R /n
-│   ├── 04a_histology_stats.R /n
-│   ├── 04b_histology_visualization.R /n
-│   └── 08_missing_tank_value_estimation.R /n
-├── 02_plots /n
-├── 03_tables /n
-├── README.md /n
-└── TEI_effects_on_sex_ratio.Rproj /n
+<br>
+
+## About The Project
+
+Rising global temperatures threaten species with environmental sex determination by skewing population sex ratios toward one sex. This study investigates the transgenerational impacts of elevated temperature on sex ratios and reproductive physiology in the European sea bass (*Dicentrarchus labrax*). 
+
+<br>
+
+## Experimental overview
+
+<img width="1627" height="1121" alt="2025_TEI_p_1_EXP_overview" src="https://github.com/user-attachments/assets/649e9ede-9b78-4469-b1c2-b8141bcc67f0" />
+Letter triplet indicated the temperature history (F0, F1, F2) of every group, where C stands for control (reared at 16C) and T for elevated temperature (21C).
+
+## Data and Repository
+
+- **Data:** All data used in this study is permanently archived on Zenodo.
+  - **DOI:** [`10.5281/ZENODO.17467975`](https://doi.org/10.5281/ZENODO.17467975)
+- **Repository Contents:**
+  - `TEI_effects_on_sex_ratio.Rproj`: RStudio project file for easy workspace setup.
+  - `00_data/`: Directory for all input data files (`.csv`, `.RData`).
+  - `01_code/`: Contains all R scripts for the analysis workflow.
+  - `02_plots/`: Default output directory for figures.
+  - `03_tables/`: Default output directory for tables.
+
+<br>
+
+## Reproducing the Analyses
+
+To reproduce the results, follow these steps:
+
+1. **Clone the Repository:**
+   ```sh
+   git clone https://github.com/eckhofen/TEI_effects_on_sex_ratio.git
+
+## Contact information and issues
+In case of bugs, please post an issue or contact me directly
