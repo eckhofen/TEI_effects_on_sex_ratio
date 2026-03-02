@@ -30,7 +30,7 @@ Letter triplet indicated the temperature history (F0, F1, F2) of every group, wh
 
 ## Reproducing the Analyses
 
-To reproduce the results, clone the repository and execute the cripts based on the ordered name indeces:
+To reproduce the results, clone the repository and execute the scripts based on the ordered name indeces.
 
  **Clone the Repository:**
    ```sh
