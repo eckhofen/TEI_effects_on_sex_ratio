@@ -35,6 +35,6 @@ To reproduce the results, clone the repository and execute the cripts based on t
  **Clone the Repository:**
    ```sh
    git clone https://github.com/eckhofen/TEI_effects_on_sex_ratio.git
-
-## Contact information and issues
-In case of bugs, please post an issue or contact me directly
+   ```
+## Contact information
+In case of questions or bugs, please post an issue or contact me directly.
