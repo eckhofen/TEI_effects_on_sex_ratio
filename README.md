@@ -30,9 +30,9 @@ Letter triplet indicated the temperature history (F0, F1, F2) of every group, wh
 
 ## Reproducing the Analyses
 
-To reproduce the results, follow these steps:
+To reproduce the results, clone the repository and execute the cripts based on the ordered name indeces:
 
-1. **Clone the Repository:**
+ **Clone the Repository:**
    ```sh
    git clone https://github.com/eckhofen/TEI_effects_on_sex_ratio.git
 
