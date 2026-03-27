@@ -1,6 +1,6 @@
 # Transgenerational Effects of Temperature on Sea Bass Sex Ratios
 
-This repository provides the full analysis pipeline for the study **"Transgenerational heat exposure triggers unexpected compensatory sex ratio responses in a temperature-sensitive fish under climate warming"**. It includes all data and R code necessary to reproduce the findings presented in the manuscript.
+This repository provides the full analysis pipeline for the study **"Transgenerational heat exposure triggers unexpected compensatory sex ratio responses in a temperature-sensitive fish under climate warming"**. Published here: [`doi.org/10.1111/gcb.70807`](https://doi.org/10.1111/gcb.70807). It includes all data and R code necessary to reproduce the findings presented in the manuscript.
 
 <br>
 
